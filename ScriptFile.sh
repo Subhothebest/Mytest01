@@ -1,0 +1,1 @@
+echo "life is hell"
